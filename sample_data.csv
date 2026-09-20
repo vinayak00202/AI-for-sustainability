@@ -1,0 +1,11 @@
+timestamp,indoor_temp_c,outdoor_temp_c,humidity_percent,rain_probability_percent,air_quality_index,wind_speed_kmh,time_of_day,user_preference,weather_condition,expected_window_state
+2026-06-25 09:00:00,25,26,60,10,55,8,09:00,Auto,Sunny,Open
+2026-06-25 10:00:00,25,29,64,15,62,10,10:00,Prefer fresh air,Sunny,Open
+2026-06-25 11:00:00,25,34,70,20,80,12,11:00,Prefer energy saving,Sunny,Close
+2026-06-25 12:00:00,25,28,82,85,72,18,12:00,Auto,Rainy,Close
+2026-06-25 15:00:00,24,42,45,5,118,16,15:00,Prefer energy saving,Sunny,Close
+2026-06-25 18:00:00,26,24,55,35,88,9,18:00,Prefer fresh air,Cloudy,Open
+2026-06-25 21:00:00,25,22,62,45,96,11,21:00,Prefer safety,Cloudy,Partial
+2026-06-25 23:00:00,25,20,72,20,180,22,23:00,Auto,Cloudy,Close
+2026-06-26 06:00:00,26,19,58,5,68,7,06:00,Prefer fresh air,Sunny,Open
+2026-06-26 14:00:00,25,31,76,55,140,44,14:00,Prefer safety,Rainy,Close
